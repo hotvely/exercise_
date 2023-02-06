@@ -13,19 +13,5 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Programmers">
-      <UniqueIdentifier>{e4a1e757-e1c1-483a-9b27-bbfba9b8701e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Programmers\Lv0">
-      <UniqueIdentifier>{dc09a928-56ea-4888-98d4-c1c9e2eac2eb}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="01_test.cpp">
-      <Filter>Programmers\Lv0</Filter>
-    </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>Programmers\Lv0</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
